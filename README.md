@@ -18,8 +18,8 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ## Overview
 
-- Solution URL: [Solution URL](https://github.com/ReddFoxie/FEM-Challenge---QR-code-component)
-- Live Site URL: [Live Site URL](https://reddfoxie.github.io/FEM-Challenge---QR-code-component/)
+- Solution URL: [github.com/ReddFoxie/FEM-Challenge---QR-code-component](https://github.com/ReddFoxie/FEM-Challenge---QR-code-component)
+- Live Site URL: [reddfoxie.github.io/FEM-Challenge---QR-code-component/](https://reddfoxie.github.io/FEM-Challenge---QR-code-component/)
 
 ## My process
 
