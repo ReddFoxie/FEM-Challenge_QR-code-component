@@ -1,0 +1,51 @@
+body {
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+  max-width: 1440px;
+  margin: 0 auto;
+  background-color: hsl(212, 45%, 89%);
+}
+
+h2 {
+  text-align: center;
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  text-align: center;
+  color: hsl(220, 15%, 55%);
+}
+
+.container {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 1fr 3fr 1fr;
+  justify-items: center;
+  align-items: center;
+}
+
+.content {
+  margin: 0;
+  grid-row: 2;
+  max-width: 260px;
+  padding: 15px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+}
+
+.qr-code {
+  border-radius: 10px;
+  max-width: 100%;
+}
+
+.attribution {
+  align-self: end;
+  grid-row: 3;
+  padding: 5px;
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
