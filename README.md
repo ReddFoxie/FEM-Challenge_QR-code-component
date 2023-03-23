@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-- Live Site URL: [reddfoxie.github.io/FEM-Challenge---QR-code-component/](https://reddfoxie.github.io/FEM-Challenge---QR-code-component/)
+Live Site URL: [reddfoxie.github.io/FEM-Challenge---QR-code-component/](https://reddfoxie.github.io/FEM-Challenge---QR-code-component/)
 
 ### Useful resources
 
